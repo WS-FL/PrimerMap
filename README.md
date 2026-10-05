@@ -2,6 +2,8 @@
 
 PrimerMap designs genomic PCR/Sanger primers around 20-nt sgRNA targets annotated in GenBank `.gb` or `.gbk` files. It runs locally without a browser, localhost server, or separate Python/Primer3 installation.
 
+See [GenBank input format](INPUT_FORMAT.md) for the exact guide annotation, strand, and sequence-context requirements. For new files, mark each 20-nt guide as a `misc_feature` labeled `sgRNA 1`, `sgRNA 2`, and so on. The app uses the feature's location and strand to find the guide; it never guesses the target from the gene name alone.
+
 Open `PrimerMap.app`, choose an input file or folder and an output folder, then click **Design Primers**. The results include:
 
 - `Primer_pairs.csv`: forward/reverse primers, Tm, amplicon length, and guide-to-primer gaps.
