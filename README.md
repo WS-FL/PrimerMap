@@ -26,7 +26,7 @@ On an Apple Silicon Mac with Python 3 and Xcode command-line tools:
 ```sh
 python3 -m venv .venv
 .venv/bin/pip install -r requirements.txt
-./build_mac.sh
+zsh build_mac.sh
 ```
 
 The resulting app and distributable ZIP are written to `dist/`. The build signs the app locally with an ad-hoc signature; it does not notarize it. Download a ready-to-use ZIP from the repository's Releases page if you do not need to build from source.
