@@ -1,0 +1,13 @@
+.venv/
+build/
+builddist/
+dist/
+pyinstaller-cache/
+swift-cache/
+PrimerMapGUI
+PrimerMapEngine.spec
+assets/*.icns
+*.log
+.DS_Store
+__pycache__/
+*.pyc
