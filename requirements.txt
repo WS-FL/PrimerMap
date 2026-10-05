@@ -1,0 +1,5 @@
+biopython==1.88
+primer3-py==2.3.1
+reportlab==4.5.1
+pyinstaller==6.22.3
+pillow==12.3.0
