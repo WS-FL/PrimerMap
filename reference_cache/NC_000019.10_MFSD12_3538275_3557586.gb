@@ -1,0 +1,1263 @@
+LOCUS       NC_000019              19312 bp    DNA     linear   CON 06-AUG-2025
+DEFINITION  Homo sapiens chromosome 19, GRCh38.p14 Primary Assembly.
+ACCESSION   NC_000019 REGION: 3538275..3557586
+VERSION     NC_000019.10
+DBLINK      BioProject: PRJNA168
+            Assembly: GCF_000001405.40
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 19312)
+  AUTHORS   Gregory,S.G., Barlow,K.F., McLay,K.E., Kaul,R., Swarbreck,D.,
+            Dunham,A., Scott,C.E., Howe,K.L., Woodfine,K., Spencer,C.C.,
+            Jones,M.C., Gillson,C., Searle,S., Zhou,Y., Kokocinski,F.,
+            McDonald,L., Evans,R., Phillips,K., Atkinson,A., Cooper,R.,
+            Jones,C., Hall,R.E., Andrews,T.D., Lloyd,C., Ainscough,R.,
+            Almeida,J.P., Ambrose,K.D., Anderson,F., Andrew,R.W., Ashwell,R.I.,
+            Aubin,K., Babbage,A.K., Bagguley,C.L., Bailey,J., Beasley,H.,
+            Bethel,G., Bird,C.P., Bray-Allen,S., Brown,J.Y., Brown,A.J.,
+            Buckley,D., Burton,J., Bye,J., Carder,C., Chapman,J.C., Clark,S.Y.,
+            Clarke,G., Clee,C., Cobley,V., Collier,R.E., Corby,N.,
+            Coville,G.J., Davies,J., Deadman,R., Dunn,M., Earthrowl,M.,
+            Ellington,A.G., Errington,H., Frankish,A., Frankland,J., French,L.,
+            Garner,P., Garnett,J., Gay,L., Ghori,M.R., Gibson,R., Gilby,L.M.,
+            Gillett,W., Glithero,R.J., Grafham,D.V., Griffiths,C.,
+            Griffiths-Jones,S., Grocock,R., Hammond,S., Harrison,E.S., Hart,E.,
+            Haugen,E., Heath,P.D., Holmes,S., Holt,K., Howden,P.J., Hunt,A.R.,
+            Hunt,S.E., Hunter,G., Isherwood,J., James,R., Johnson,C.,
+            Johnson,D., Joy,A., Kay,M., Kershaw,J.K., Kibukawa,M.,
+            Kimberley,A.M., King,A., Knights,A.J., Lad,H., Laird,G., Lawlor,S.,
+            Leongamornlert,D.A., Lloyd,D.M., Loveland,J., Lovell,J., Lush,M.J.,
+            Lyne,R., Martin,S., Mashreghi-Mohammadi,M., Matthews,L.,
+            Matthews,N.S., McLaren,S., Milne,S., Mistry,S., Moore,M.J.,
+            Nickerson,T., O'Dell,C.N., Oliver,K., Palmeiri,A., Palmer,S.A.,
+            Parker,A., Patel,D., Pearce,A.V., Peck,A.I., Pelan,S., Phelps,K.,
+            Phillimore,B.J., Plumb,R., Rajan,J., Raymond,C., Rouse,G.,
+            Saenphimmachak,C., Sehra,H.K., Sheridan,E., Shownkeen,R., Sims,S.,
+            Skuce,C.D., Smith,M., Steward,C., Subramanian,S., Sycamore,N.,
+            Tracey,A., Tromans,A., Van Helmond,Z., Wall,M., Wallis,J.M.,
+            White,S., Whitehead,S.L., Wilkinson,J.E., Willey,D.L., Williams,H.,
+            Wilming,L., Wray,P.W., Wu,Z., Coulson,A., Vaudin,M., Sulston,J.E.,
+            Durbin,R., Hubbard,T., Wooster,R., Dunham,I., Carter,N.P.,
+            McVean,G., Ross,M.T., Harrow,J., Olson,M.V., Beck,S., Rogers,J.,
+            Bentley,D.R., Banerjee,R., Bryant,S.P., Burford,D.C., Burrill,W.D.,
+            Clegg,S.M., Dhami,P., Dovey,O., Faulkner,L.M., Gribble,S.M.,
+            Langford,C.F., Pandian,R.D., Porter,K.M. and Prigmore,E.
+  TITLE     The DNA sequence and biological annotation of human chromosome 1
+  JOURNAL   Nature 441 (7091), 315-321 (2006)
+   PUBMED   16710414
+  REMARK    Erratum:[Nature. 2006 Oct 26;443(7114):1013. Banerjee, R [added];
+            Bryant, SP [added]; Burford, DC [added]; Burrill, WDH [added];
+            Clegg, SM [added]; Dhami, P [added]; Dovey, O [added]; Faulkner, LM
+            [added]; Gribble, SM [added]; Langford, CF [added]; Pandian, RD
+            [added]; Porter, KM [added]; Prigmore, E [added]]
+REFERENCE   2  (bases 1 to 19312)
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Finishing the euchromatic sequence of the human genome
+  JOURNAL   Nature 431 (7011), 931-945 (2004)
+   PUBMED   15496913
+REFERENCE   3  (bases 1 to 19312)
+  AUTHORS   Grimwood,J., Gordon,L.A., Olsen,A., Terry,A., Schmutz,J.,
+            Lamerdin,J., Hellsten,U., Goodstein,D., Couronne,O.,
+            Tran-Gyamfi,M., Aerts,A., Altherr,M., Ashworth,L., Bajorek,E.,
+            Black,S., Branscomb,E., Caenepeel,S., Carrano,A., Caoile,C.,
+            Chan,Y.M., Christensen,M., Cleland,C.A., Copeland,A., Dalin,E.,
+            Dehal,P., Denys,M., Detter,J.C., Escobar,J., Flowers,D.,
+            Fotopulos,D., Garcia,C., Georgescu,A.M., Glavina,T., Gomez,M.,
+            Gonzales,E., Groza,M., Hammon,N., Hawkins,T., Haydu,L., Ho,I.,
+            Huang,W., Israni,S., Jett,J., Kadner,K., Kimball,H., Kobayashi,A.,
+            Larionov,V., Leem,S.H., Lopez,F., Lou,Y., Lowry,S., Malfatti,S.,
+            Martinez,D., McCready,P., Medina,C., Morgan,J., Nelson,K.,
+            Nolan,M., Ovcharenko,I., Pitluck,S., Pollard,M., Popkie,A.P.,
+            Predki,P., Quan,G., Ramirez,L., Rash,S., Retterer,J., Rodriguez,A.,
+            Rogers,S., Salamov,A., Salazar,A., She,X., Smith,D., Slezak,T.,
+            Solovyev,V., Thayer,N., Tice,H., Tsai,M., Ustaszewska,A., Vo,N.,
+            Wagner,M., Wheeler,J., Wu,K., Xie,G., Yang,J., Dubchak,I.,
+            Furey,T.S., DeJong,P., Dickson,M., Gordon,D., Eichler,E.E.,
+            Pennacchio,L.A., Richardson,P., Stubbs,L., Rokhsar,D.S.,
+            Myers,R.M., Rubin,E.M. and Lucas,S.M.
+  TITLE     The DNA sequence and biology of human chromosome 19
+  JOURNAL   Nature 428 (6982), 529-535 (2004)
+   PUBMED   15057824
+REFERENCE   4  (bases 1 to 19312)
+  AUTHORS   Lander,E.S., Linton,L.M., Birren,B., Nusbaum,C., Zody,M.C.,
+            Baldwin,J., Devon,K., Dewar,K., Doyle,M., FitzHugh,W., Funke,R.,
+            Gage,D., Harris,K., Heaford,A., Howland,J., Kann,L., Lehoczky,J.,
+            LeVine,R., McEwan,P., McKernan,K., Meldrim,J., Mesirov,J.P.,
+            Miranda,C., Morris,W., Naylor,J., Raymond,C., Rosetti,M.,
+            Santos,R., Sheridan,A., Sougnez,C., Stange-Thomann,N.,
+            Stojanovic,N., Subramanian,A., Wyman,D., Rogers,J., Sulston,J.,
+            Ainscough,R., Beck,S., Bentley,D., Burton,J., Clee,C., Carter,N.,
+            Coulson,A., Deadman,R., Deloukas,P., Dunham,A., Dunham,I.,
+            Durbin,R., French,L., Grafham,D., Gregory,S., Hubbard,T.,
+            Humphray,S., Hunt,A., Jones,M., Lloyd,C., McMurray,A., Matthews,L.,
+            Mercer,S., Milne,S., Mullikin,J.C., Mungall,A., Plumb,R., Ross,M.,
+            Shownkeen,R., Sims,S., Waterston,R.H., Wilson,R.K., Hillier,L.W.,
+            McPherson,J.D., Marra,M.A., Mardis,E.R., Fulton,L.A.,
+            Chinwalla,A.T., Pepin,K.H., Gish,W.R., Chissoe,S.L., Wendl,M.C.,
+            Delehaunty,K.D., Miner,T.L., Delehaunty,A., Kramer,J.B., Cook,L.L.,
+            Fulton,R.S., Johnson,D.L., Minx,P.J., Clifton,S.W., Hawkins,T.,
+            Branscomb,E., Predki,P., Richardson,P., Wenning,S., Slezak,T.,
+            Doggett,N., Cheng,J.F., Olsen,A., Lucas,S., Elkin,C.,
+            Uberbacher,E., Frazier,M., Gibbs,R.A., Muzny,D.M., Scherer,S.E.,
+            Bouck,J.B., Sodergren,E.J., Worley,K.C., Rives,C.M., Gorrell,J.H.,
+            Metzker,M.L., Naylor,S.L., Kucherlapati,R.S., Nelson,D.L.,
+            Weinstock,G.M., Sakaki,Y., Fujiyama,A., Hattori,M., Yada,T.,
+            Toyoda,A., Itoh,T., Kawagoe,C., Watanabe,H., Totoki,Y., Taylor,T.,
+            Weissenbach,J., Heilig,R., Saurin,W., Artiguenave,F., Brottier,P.,
+            Bruls,T., Pelletier,E., Robert,C., Wincker,P., Smith,D.R.,
+            Doucette-Stamm,L., Rubenfield,M., Weinstock,K., Lee,H.M.,
+            Dubois,J., Rosenthal,A., Platzer,M., Nyakatura,G., Taudien,S.,
+            Rump,A., Yang,H., Yu,J., Wang,J., Huang,G., Gu,J., Hood,L.,
+            Rowen,L., Madan,A., Qin,S., Davis,R.W., Federspiel,N.A.,
+            Abola,A.P., Proctor,M.J., Myers,R.M., Schmutz,J., Dickson,M.,
+            Grimwood,J., Cox,D.R., Olson,M.V., Kaul,R., Raymond,C., Shimizu,N.,
+            Kawasaki,K., Minoshima,S., Evans,G.A., Athanasiou,M., Schultz,R.,
+            Roe,B.A., Chen,F., Pan,H., Ramser,J., Lehrach,H., Reinhardt,R.,
+            McCombie,W.R., de la Bastide,M., Dedhia,N., Blocker,H.,
+            Hornischer,K., Nordsiek,G., Agarwala,R., Aravind,L., Bailey,J.A.,
+            Bateman,A., Batzoglou,S., Birney,E., Bork,P., Brown,D.G.,
+            Burge,C.B., Cerutti,L., Chen,H.C., Church,D., Clamp,M.,
+            Copley,R.R., Doerks,T., Eddy,S.R., Eichler,E.E., Furey,T.S.,
+            Galagan,J., Gilbert,J.G., Harmon,C., Hayashizaki,Y., Haussler,D.,
+            Hermjakob,H., Hokamp,K., Jang,W., Johnson,L.S., Jones,T.A.,
+            Kasif,S., Kaspryzk,A., Kennedy,S., Kent,W.J., Kitts,P.,
+            Koonin,E.V., Korf,I., Kulp,D., Lancet,D., Lowe,T.M., McLysaght,A.,
+            Mikkelsen,T., Moran,J.V., Mulder,N., Pollara,V.J., Ponting,C.P.,
+            Schuler,G., Schultz,J., Slater,G., Smit,A.F., Stupka,E.,
+            Szustakowski,J., Thierry-Mieg,D., Thierry-Mieg,J., Wagner,L.,
+            Wallis,J., Wheeler,R., Williams,A., Wolf,Y.I., Wolfe,K.H.,
+            Yang,S.P., Yeh,R.F., Collins,F., Guyer,M.S., Peterson,J.,
+            Felsenfeld,A., Wetterstrand,K.A., Patrinos,A., Morgan,M.J., de
+            Jong,P., Catanese,J.J., Osoegawa,K., Shizuya,H., Choi,S. and
+            Chen,Y.J.
+  CONSRTM   International Human Genome Sequencing Consortium
+  TITLE     Initial sequencing and analysis of the human genome
+  JOURNAL   Nature 409 (6822), 860-921 (2001)
+   PUBMED   11237011
+  REMARK    Erratum:[Nature 2001 Aug 2;412(6846):565]
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            CM000681.2.
+            
+            On Feb 3, 2014 this sequence version replaced NC_000019.9.
+            Assembly Name: GRCh38.p14 Primary Assembly
+            The DNA sequence is composed of genomic sequence, primarily
+            finished clones that were sequenced as part of the Human Genome
+            Project. PCR products and WGS shotgun sequence have been added
+            where necessary to fill gaps or correct errors. All such additions
+            are manually curated by GRC staff. For more information see:
+            https://genomereference.org.
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider         :: NCBI RefSeq
+            Annotation Status           :: Updated annotation
+            Annotation Name             :: GCF_000001405.40-RS_2025_08
+            Annotation Pipeline         :: NCBI eukaryotic genome annotation
+                                           pipeline
+            Annotation Software Version :: 10.4
+            Annotation Method           :: Best-placed RefSeq; Gnomon;
+                                           RefSeqFE; cmsearch; tRNAscan-SE
+            Features Annotated          :: Gene; mRNA; CDS; ncRNA
+            Annotation Date             :: 08/01/2025
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..19312
+                     /organism="Homo sapiens"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+     gene            <1..60
+                     /gene="FZR1"
+                     /gene_synonym="CDC20C; CDH1; DEE109; FZR; FZR2; HCDH;
+                     HCDH1"
+                     /note="fizzy and cell division cycle 20 related 1; Derived
+                     by automated computational analysis using gene prediction
+                     method: BestRefSeq,Gnomon."
+                     /db_xref="GeneID:51343"
+                     /db_xref="HGNC:HGNC:24824"
+                     /db_xref="MIM:603619"
+     mRNA            <1..60
+                     /gene="FZR1"
+                     /gene_synonym="CDC20C; CDH1; DEE109; FZR; FZR2; HCDH;
+                     HCDH1"
+                     /product="fizzy and cell division cycle 20 related 1,
+                     transcript variant X5"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 4 mRNAs, 69 ESTs, 372 long SRA
+                     reads, 6 Proteins, and 100% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 107
+                     samples with support for all annotated introns"
+                     /transcript_id="XM_005259573.6"
+                     /db_xref="GeneID:51343"
+                     /db_xref="HGNC:HGNC:24824"
+                     /db_xref="MIM:603619"
+     mRNA            <1..60
+                     /gene="FZR1"
+                     /gene_synonym="CDC20C; CDH1; DEE109; FZR; FZR2; HCDH;
+                     HCDH1"
+                     /product="fizzy and cell division cycle 20 related 1,
+                     transcript variant 2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_016263.4"
+                     /db_xref="Ensembl:ENST00000441788.7"
+                     /db_xref="GeneID:51343"
+                     /db_xref="HGNC:HGNC:24824"
+                     /db_xref="MIM:603619"
+     mRNA            <1..60
+                     /gene="FZR1"
+                     /gene_synonym="CDC20C; CDH1; DEE109; FZR; FZR2; HCDH;
+                     HCDH1"
+                     /product="fizzy and cell division cycle 20 related 1,
+                     transcript variant X1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 3 mRNAs, 46 ESTs, 284 long SRA
+                     reads, 6 Proteins, and 100% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 23 samples
+                     with support for all annotated introns"
+                     /transcript_id="XM_017026863.3"
+                     /db_xref="GeneID:51343"
+                     /db_xref="HGNC:HGNC:24824"
+                     /db_xref="MIM:603619"
+     mRNA            <1..60
+                     /gene="FZR1"
+                     /gene_synonym="CDC20C; CDH1; DEE109; FZR; FZR2; HCDH;
+                     HCDH1"
+                     /product="fizzy and cell division cycle 20 related 1,
+                     transcript variant X3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 3 mRNAs, 46 ESTs, 285 long SRA
+                     reads, 6 Proteins, and 96% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 8 samples
+                     with support for all annotated introns"
+                     /transcript_id="XM_047438908.1"
+                     /db_xref="GeneID:51343"
+                     /db_xref="HGNC:HGNC:24824"
+                     /db_xref="MIM:603619"
+     mRNA            <1..60
+                     /gene="FZR1"
+                     /gene_synonym="CDC20C; CDH1; DEE109; FZR; FZR2; HCDH;
+                     HCDH1"
+                     /product="fizzy and cell division cycle 20 related 1,
+                     transcript variant X4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 5 mRNAs, 62 ESTs, 490 long SRA
+                     reads, 12 Proteins, and 96% coverage of the annotated
+                     genomic feature by RNAseq alignments, including 8 samples
+                     with support for all annotated introns"
+                     /transcript_id="XM_047438909.1"
+                     /db_xref="GeneID:51343"
+                     /db_xref="HGNC:HGNC:24824"
+                     /db_xref="MIM:603619"
+     gene            complement(1..19312)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="major facilitator superfamily domain containing 12;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq,Gnomon."
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+     mRNA            complement(join(1..482,6535..6665,7800..7894,8998..9090,
+                     9181..9273,9574..9756,9849..9993,12710..12920,
+                     18832..19312))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /product="major facilitator superfamily domain containing
+                     12, transcript variant X5"
+                     /experiment="COORDINATES: polyA evidence [ECO:0006239]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 19 ESTs, 99 long SRA reads, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 52 samples with support for all
+                     annotated introns"
+                     /transcript_id="XM_047438171.1"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+     mRNA            complement(join(1..482,6535..6665,7800..7894,7981..8151,
+                     8998..9090,9181..9273,9574..9756,9849..9993,12710..12920,
+                     18832..19312))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /product="major facilitator superfamily domain containing
+                     12, transcript variant X3"
+                     /experiment="COORDINATES: polyA evidence [ECO:0006239]"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 22 ESTs, 170 long SRA reads, 1
+                     Protein, and 100% coverage of the annotated genomic
+                     feature by RNAseq alignments, including 84 samples with
+                     support for all annotated introns"
+                     /transcript_id="XM_011527684.3"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+     CDS             complement(join(481..482,6535..6665,7800..7894,8998..9090,
+                     9181..9273,9574..9756,9849..9993,12710..12920,
+                     18832..19129))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="major facilitator superfamily domain-containing
+                     protein 12 isoform X5"
+                     /protein_id="XP_047294127.1"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+                     /translation="MGPGPPAAGAAPSPRPLSLVARLSYAVGHFLNDLCASMWFTYLL
+                     LYLHSVRAYSSRGAGLLLLLGQVADGLCTPLVGYEADRAASCCARYGPRKAWHLVGTV
+                     CVLLSFPFIFSPCLGCGAATPEWAALLYYGPFIVIFQFGWASTQISHLSLIPELVTND
+                     HEKVELTALRYAFTVVANITVYGAAWLLLHLQGSSRVEPTQDISISDQLGGQDVPVFR
+                     NLSLLVVGVGAVFSLLFHLGTRERRRPHAEEPGEHTPLLAPATAQPLLLWKHWLREPA
+                     FYQVGILYMTTRLIVNLSQTYMAMYLTYSLHLPKKFIATIPLVMYLSGFLSSFLMKPI
+                     NKCIGRNNSGAFVYGSMSFLDKVANGLAVMAIQSLHPCPSELCCRACVSFYHWAMVAV
+                     TGGVGVAAALCLCSLLLWPTRLRR"
+     CDS             complement(join(481..482,6535..6665,7800..7894,7981..8151,
+                     8998..9090,9181..9273,9574..9756,9849..9993,12710..12920,
+                     18832..19129))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="major facilitator superfamily domain-containing
+                     protein 12 isoform X3"
+                     /protein_id="XP_011525986.1"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+                     /translation="MGPGPPAAGAAPSPRPLSLVARLSYAVGHFLNDLCASMWFTYLL
+                     LYLHSVRAYSSRGAGLLLLLGQVADGLCTPLVGYEADRAASCCARYGPRKAWHLVGTV
+                     CVLLSFPFIFSPCLGCGAATPEWAALLYYGPFIVIFQFGWASTQISHLSLIPELVTND
+                     HEKVELTALRYAFTVVANITVYGAAWLLLHLQGSSRVEPTQDISISDQLGGQDVPVFR
+                     NLSLLVVGVGAVFSLLFHLGTRERRRPHAEEPGEHTPLLAPATAQPLLLWKHWLREPA
+                     FYQVGILYMTTRLIVNLSQTYMAMYLTYSLHLPKKFIATIPLVMYLSGFLSSFLMKPI
+                     NKCIGRNMTYFSGLLVILAFAAWVALAEGLGVAVYAAAVLLGAGCATILVTSLAMTAD
+                     LIGPHTNSGAFVYGSMSFLDKVANGLAVMAIQSLHPCPSELCCRACVSFYHWAMVAVT
+                     GGVGVAAALCLCSLLLWPTRLRR"
+     misc_feature    885..1737
+                     /standard_name="H3K4me1 hESC enhancer
+                     GRCh37_chr19:3539157-3540009"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:127890048"
+     regulatory      885..1737
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:30033119]"
+                     /note="H3K4me1 hESC enhancer chr19:3539157-3540009
+                     (GRCh37/hg19 assembly coordinates); Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="activates a minimal SCP1, AML or CMV promoter
+                     by ChIP-STARR-seq in naive H9 embryonic stem cells
+                     {active_cell/tissue: H9 hESC(naive)}"
+                     /db_xref="GeneID:127890048"
+     gene            900..5756
+                     /gene="TEKTIP1"
+                     /gene_synonym="C19orf71"
+                     /note="tektin bundle interacting protein 1; Derived by
+                     automated computational analysis using gene prediction
+                     method: BestRefSeq,Gnomon."
+                     /db_xref="GeneID:100128569"
+                     /db_xref="HGNC:HGNC:34496"
+     mRNA            join(900..986,4961..5199,5281..5406,5555..5756)
+                     /gene="TEKTIP1"
+                     /gene_synonym="C19orf71"
+                     /product="tektin bundle interacting protein 1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001135580.2"
+                     /db_xref="Ensembl:ENST00000329493.6"
+                     /db_xref="GeneID:100128569"
+                     /db_xref="HGNC:HGNC:34496"
+     CDS             join(904..986,4961..5199,5281..5406,5555..5736)
+                     /gene="TEKTIP1"
+                     /gene_synonym="C19orf71"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="tektin bundle-interacting protein 1"
+                     /protein_id="NP_001129052.1"
+                     /db_xref="CCDS:CCDS45918.1"
+                     /db_xref="Ensembl:ENSP00000327950.4"
+                     /db_xref="GeneID:100128569"
+                     /db_xref="HGNC:HGNC:34496"
+                     /translation="MQTLRQEAARPCIPSGTLEASFPAPLYSDDYLSLEGSRWPPAIR
+                     QATRWKYTPMGRDAAGQLWYTGLTNSDAWEAWYNLPRAPASPFREAYNRWHSCYQHRE
+                     CSMPSAYTQHLRETAWHDPIVPAQYQAPSTRWGSALWKDRPIRGKEYVLNRNRYGVEP
+                     LWRASDYVPSLSAPQRPPGTTQNYREWVLEPYCPSTCQRSPPSLTPTPR"
+     mRNA            join(1764..1796,4961..5199,5281..5406,5555..5756)
+                     /gene="TEKTIP1"
+                     /gene_synonym="C19orf71"
+                     /product="tektin bundle interacting protein 1, transcript
+                     variant X2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 13 ESTs, 11 long SRA reads, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 15 samples with support for all
+                     annotated introns"
+                     /transcript_id="XM_011527596.4"
+                     /db_xref="GeneID:100128569"
+                     /db_xref="HGNC:HGNC:34496"
+     misc_feature    2195..2339
+                     /standard_name="melanoma risk locus-associated MPRA
+                     allelic enhancer 19:3540539"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:128772422"
+     regulatory      2195..2339
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:36423637]"
+                     /note="145 bp 19:3540539 sequence used in MPRA reporter
+                     constructs; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /function="activates a minimal TATA-containing promoter
+                     with rs12984831 allelic activity by MPRAs in UACC903
+                     melanoma cells {active_cell/tissue: UACC903}"
+                     /db_xref="GeneID:128772422"
+     regulatory      2267
+                     /regulatory_class="transcriptional_cis_regulatory_region"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:36423637]"
+                     /note="rs12984831 or 19:3540539 MPRA-significant variant
+                     associated with a GWAS melanoma risk locus at 19p13.3;
+                     Derived by automated computational analysis using gene
+                     prediction method: RefSeqFE."
+                     /function="allelic transcriptional activity by MPRAs in
+                     UACC903 melanoma cells {active_cell/tissue: UACC903}"
+                     /db_xref="dbSNP:rs12984831"
+                     /db_xref="GeneID:128772422"
+     mRNA            complement(join(4421..4703,6535..6665,7800..7894,
+                     8998..9090,9181..9273,9574..9756,9849..9993,12710..12920,
+                     18832..19312))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /product="major facilitator superfamily domain containing
+                     12, transcript variant X2"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 11 ESTs, 13 long SRA reads, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 25 samples with support for all
+                     annotated introns"
+                     /transcript_id="XM_005259490.5"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+     mRNA            complement(join(4421..4703,6535..6665,7800..7894,
+                     7981..8151,8998..9090,9181..9273,9574..9756,9849..9993,
+                     12710..12920,18832..19312))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /product="major facilitator superfamily domain containing
+                     12, transcript variant X1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 14 ESTs, 28 long SRA reads, 1
+                     Protein, and 100% coverage of the annotated genomic
+                     feature by RNAseq alignments, including 46 samples with
+                     support for all annotated introns"
+                     /transcript_id="XM_047438170.1"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+     CDS             complement(join(4507..4703,6535..6665,7800..7894,
+                     8998..9090,9181..9273,9574..9756,9849..9993,12710..12920,
+                     18832..19129))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="major facilitator superfamily domain-containing
+                     protein 12 isoform X2"
+                     /protein_id="XP_005259547.1"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+                     /translation="MGPGPPAAGAAPSPRPLSLVARLSYAVGHFLNDLCASMWFTYLL
+                     LYLHSVRAYSSRGAGLLLLLGQVADGLCTPLVGYEADRAASCCARYGPRKAWHLVGTV
+                     CVLLSFPFIFSPCLGCGAATPEWAALLYYGPFIVIFQFGWASTQISHLSLIPELVTND
+                     HEKVELTALRYAFTVVANITVYGAAWLLLHLQGSSRVEPTQDISISDQLGGQDVPVFR
+                     NLSLLVVGVGAVFSLLFHLGTRERRRPHAEEPGEHTPLLAPATAQPLLLWKHWLREPA
+                     FYQVGILYMTTRLIVNLSQTYMAMYLTYSLHLPKKFIATIPLVMYLSGFLSSFLMKPI
+                     NKCIGRNNSGAFVYGSMSFLDKVANGLAVMAIQSLHPCPSELCCRACVSFYHWAMVAV
+                     TGGVGVAAALCLCSLLLWPTRLRRSFLAWRRGRGEDKGPGYSWIPTVLVQPPRPTSPF
+                     LWEAPLAWRCTRKKWSGAGTKPWPREDWGTH"
+     CDS             complement(join(4507..4703,6535..6665,7800..7894,
+                     7981..8151,8998..9090,9181..9273,9574..9756,9849..9993,
+                     12710..12920,18832..19129))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="major facilitator superfamily domain-containing
+                     protein 12 isoform X1"
+                     /protein_id="XP_047294126.1"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+                     /translation="MGPGPPAAGAAPSPRPLSLVARLSYAVGHFLNDLCASMWFTYLL
+                     LYLHSVRAYSSRGAGLLLLLGQVADGLCTPLVGYEADRAASCCARYGPRKAWHLVGTV
+                     CVLLSFPFIFSPCLGCGAATPEWAALLYYGPFIVIFQFGWASTQISHLSLIPELVTND
+                     HEKVELTALRYAFTVVANITVYGAAWLLLHLQGSSRVEPTQDISISDQLGGQDVPVFR
+                     NLSLLVVGVGAVFSLLFHLGTRERRRPHAEEPGEHTPLLAPATAQPLLLWKHWLREPA
+                     FYQVGILYMTTRLIVNLSQTYMAMYLTYSLHLPKKFIATIPLVMYLSGFLSSFLMKPI
+                     NKCIGRNMTYFSGLLVILAFAAWVALAEGLGVAVYAAAVLLGAGCATILVTSLAMTAD
+                     LIGPHTNSGAFVYGSMSFLDKVANGLAVMAIQSLHPCPSELCCRACVSFYHWAMVAVT
+                     GGVGVAAALCLCSLLLWPTRLRRSFLAWRRGRGEDKGPGYSWIPTVLVQPPRPTSPFL
+                     WEAPLAWRCTRKKWSGAGTKPWPREDWGTH"
+     misc_feature    4639..4783
+                     /standard_name="melanoma risk locus-associated MPRA
+                     allelic enhancer 19:3542983"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:128772423"
+     regulatory      4639..4783
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:36423637]"
+                     /note="145 bp 19:3542983 sequence used in MPRA reporter
+                     constructs; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /function="activates a minimal TATA-containing promoter
+                     with rs12608592 allelic activity by MPRAs in C283T
+                     melanocytes {active_cell/tissue: C283T}"
+                     /db_xref="GeneID:128772423"
+     mRNA            join(4702..5199,5281..5406,5555..5756)
+                     /gene="TEKTIP1"
+                     /gene_synonym="C19orf71"
+                     /product="tektin bundle interacting protein 1, transcript
+                     variant X1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 13 ESTs, 1 long SRA read, and 100%
+                     coverage of the annotated genomic feature by RNAseq
+                     alignments, including 43 samples with support for all
+                     annotated introns"
+                     /transcript_id="XM_047437992.1"
+                     /db_xref="GeneID:100128569"
+                     /db_xref="HGNC:HGNC:34496"
+     regulatory      4711
+                     /regulatory_class="transcriptional_cis_regulatory_region"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:36423637]"
+                     /note="rs12608592 or 19:3542983 MPRA-significant variant
+                     associated with a GWAS melanoma risk locus at 19p13.3;
+                     Derived by automated computational analysis using gene
+                     prediction method: RefSeqFE."
+                     /function="allelic transcriptional activity by MPRAs in
+                     C283T melanocytes {active_cell/tissue: C283T}"
+                     /db_xref="dbSNP:rs12608592"
+                     /db_xref="GeneID:128772423"
+     CDS             join(4749..5199,5281..5406,5555..5736)
+                     /gene="TEKTIP1"
+                     /gene_synonym="C19orf71"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="tektin bundle-interacting protein 1 isoform X1"
+                     /protein_id="XP_047293948.1"
+                     /db_xref="GeneID:100128569"
+                     /db_xref="HGNC:HGNC:34496"
+                     /translation="MCGERGSQPLSSSTHSGVRGTGLKDRLQVAREGDPTPWARPLHH
+                     PPWQTSQRGQSTRCRHGLSLCPLPTLSDDYLSLEGSRWPPAIRQATRWKYTPMGRDAA
+                     GQLWYTGLTNSDAWEAWYNLPRAPASPFREAYNRWHSCYQHRECSMPSAYTQHLRETA
+                     WHDPIVPAQYQAPSTRWGSALWKDRPIRGKEYVLNRNRYGVEPLWRASDYVPSLSAPQ
+                     RPPGTTQNYREWVLEPYCPSTCQRSPPSLTPTPR"
+     CDS             join(5037..5199,5281..5406,5555..5736)
+                     /gene="TEKTIP1"
+                     /gene_synonym="C19orf71"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="tektin bundle-interacting protein 1 isoform X2"
+                     /protein_id="XP_011525898.1"
+                     /db_xref="GeneID:100128569"
+                     /db_xref="HGNC:HGNC:34496"
+                     /translation="MGRDAAGQLWYTGLTNSDAWEAWYNLPRAPASPFREAYNRWHSC
+                     YQHRECSMPSAYTQHLRETAWHDPIVPAQYQAPSTRWGSALWKDRPIRGKEYVLNRNR
+                     YGVEPLWRASDYVPSLSAPQRPPGTTQNYREWVLEPYCPSTCQRSPPSLTPTPR"
+     mRNA            complement(join(5925..6458,6535..6665,7800..7894,
+                     7981..8151,8998..9090,9181..9273,9574..9756,9849..9993,
+                     12710..12920,18859..19312))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /product="major facilitator superfamily domain containing
+                     12, transcript variant 4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_001287529.2"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+     mRNA            complement(join(5925..6458,6535..6665,7800..7894,
+                     8998..9090,9181..9273,9574..9756,9849..9993,12710..12920,
+                     18832..19312))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /product="major facilitator superfamily domain containing
+                     12, transcript variant X4"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon. Supporting evidence
+                     includes similarity to: 40 ESTs, 99 long SRA reads, and
+                     100% coverage of the annotated genomic feature by RNAseq
+                     alignments, including 61 samples with support for all
+                     annotated introns"
+                     /transcript_id="XM_017026288.2"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+     mRNA            complement(join(5925..6458,6535..6665,7800..7894,
+                     7981..8151,8998..9090,9181..9273,9574..9756,9849..9993,
+                     12710..12920,18832..19312))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /product="major facilitator superfamily domain containing
+                     12, transcript variant 3"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: BestRefSeq."
+                     /transcript_id="NM_174983.5"
+                     /db_xref="Ensembl:ENST00000355415.7"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+     CDS             complement(join(6436..6458,6535..6665,7800..7894,
+                     7981..8151,8998..9090,9181..9273,9574..9756,9849..9993,
+                     12710..12920,18859..19129))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="isoform d is encoded by transcript variant 4;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="major facilitator superfamily domain-containing
+                     protein 12 isoform d"
+                     /protein_id="NP_001274458.1"
+                     /db_xref="CCDS:CCDS74256.1"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+                     /translation="MGPGPPAAGAAPSPRPLSLVARLSYAVGHFLNDLCASMWFTYLL
+                     LYLHSVRAYSSRGAGLLLLLGQVADGLCTPLVGYEADRAASCCARYGTVCVLLSFPFI
+                     FSPCLGCGAATPEWAALLYYGPFIVIFQFGWASTQISHLSLIPELVTNDHEKVELTAL
+                     RYAFTVVANITVYGAAWLLLHLQGSSRVEPTQDISISDQLGGQDVPVFRNLSLLVVGV
+                     GAVFSLLFHLGTRERRRPHAEEPGEHTPLLAPATAQPLLLWKHWLREPAFYQVGILYM
+                     TTRLIVNLSQTYMAMYLTYSLHLPKKFIATIPLVMYLSGFLSSFLMKPINKCIGRNMT
+                     YFSGLLVILAFAAWVALAEGLGVAVYAAAVLLGAGCATILVTSLAMTADLIGPHTNSG
+                     AFVYGSMSFLDKVANGLAVMAIQSLHPCPSELCCRACVSFYHWAMVAVTGGVGVAAAL
+                     CLCSLLLWPTRLRRWDRDARP"
+     misc_feature    complement(19127..19129)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0000269|PubMed:25732826; propagated from
+                     UniProtKB/Swiss-Prot (Q6NUT3.2); acetylation site"
+     misc_feature    complement(18989..19051)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(18899..18961)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(12784..12846)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(9930..9992)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(9694..9756)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(9649..9651)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="Phosphothreonine, by MTOR.
+                     /evidence=ECO:0000269|PubMed:37751742; propagated from
+                     UniProtKB/Swiss-Prot (Q6NUT3.2); phosphorylation site"
+     misc_feature    complement(9205..9273)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(9028..9090)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(8071..8133)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(8008..8070)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(7820..7882)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(6554..6616)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     CDS             complement(join(6436..6458,6535..6665,7800..7894,
+                     8998..9090,9181..9273,9574..9756,9849..9993,12710..12920,
+                     18832..19129))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: Gnomon."
+                     /codon_start=1
+                     /product="major facilitator superfamily domain-containing
+                     protein 12 isoform X4"
+                     /protein_id="XP_016881777.1"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+                     /translation="MGPGPPAAGAAPSPRPLSLVARLSYAVGHFLNDLCASMWFTYLL
+                     LYLHSVRAYSSRGAGLLLLLGQVADGLCTPLVGYEADRAASCCARYGPRKAWHLVGTV
+                     CVLLSFPFIFSPCLGCGAATPEWAALLYYGPFIVIFQFGWASTQISHLSLIPELVTND
+                     HEKVELTALRYAFTVVANITVYGAAWLLLHLQGSSRVEPTQDISISDQLGGQDVPVFR
+                     NLSLLVVGVGAVFSLLFHLGTRERRRPHAEEPGEHTPLLAPATAQPLLLWKHWLREPA
+                     FYQVGILYMTTRLIVNLSQTYMAMYLTYSLHLPKKFIATIPLVMYLSGFLSSFLMKPI
+                     NKCIGRNNSGAFVYGSMSFLDKVANGLAVMAIQSLHPCPSELCCRACVSFYHWAMVAV
+                     TGGVGVAAALCLCSLLLWPTRLRRWDRDARP"
+     CDS             complement(join(6436..6458,6535..6665,7800..7894,
+                     7981..8151,8998..9090,9181..9273,9574..9756,9849..9993,
+                     12710..12920,18832..19129))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="isoform c is encoded by transcript variant 3;
+                     Derived by automated computational analysis using gene
+                     prediction method: BestRefSeq."
+                     /codon_start=1
+                     /product="major facilitator superfamily domain-containing
+                     protein 12 isoform c"
+                     /protein_id="NP_778148.2"
+                     /db_xref="CCDS:CCDS42465.1"
+                     /db_xref="Ensembl:ENSP00000347583.1"
+                     /db_xref="GeneID:126321"
+                     /db_xref="HGNC:HGNC:28299"
+                     /db_xref="MIM:617745"
+                     /translation="MGPGPPAAGAAPSPRPLSLVARLSYAVGHFLNDLCASMWFTYLL
+                     LYLHSVRAYSSRGAGLLLLLGQVADGLCTPLVGYEADRAASCCARYGPRKAWHLVGTV
+                     CVLLSFPFIFSPCLGCGAATPEWAALLYYGPFIVIFQFGWASTQISHLSLIPELVTND
+                     HEKVELTALRYAFTVVANITVYGAAWLLLHLQGSSRVEPTQDISISDQLGGQDVPVFR
+                     NLSLLVVGVGAVFSLLFHLGTRERRRPHAEEPGEHTPLLAPATAQPLLLWKHWLREPA
+                     FYQVGILYMTTRLIVNLSQTYMAMYLTYSLHLPKKFIATIPLVMYLSGFLSSFLMKPI
+                     NKCIGRNMTYFSGLLVILAFAAWVALAEGLGVAVYAAAVLLGAGCATILVTSLAMTAD
+                     LIGPHTNSGAFVYGSMSFLDKVANGLAVMAIQSLHPCPSELCCRACVSFYHWAMVAVT
+                     GGVGVAAALCLCSLLLWPTRLRRWDRDARP"
+     misc_feature    complement(19127..19129)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="N-acetylmethionine.
+                     /evidence=ECO:0000269|PubMed:25732826; propagated from
+                     UniProtKB/Swiss-Prot (Q6NUT3.2); acetylation site"
+     misc_feature    complement(18989..19051)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(18899..18961)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(join(12865..12920,18832..18838))
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(12784..12846)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(9930..9992)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(9694..9756)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(9649..9651)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="Phosphothreonine, by MTOR.
+                     /evidence=ECO:0000269|PubMed:37751742; propagated from
+                     UniProtKB/Swiss-Prot (Q6NUT3.2); phosphorylation site"
+     misc_feature    complement(9205..9273)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(9028..9090)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(8071..8133)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(8008..8070)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(7820..7882)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    complement(6554..6616)
+                     /gene="MFSD12"
+                     /gene_synonym="C19orf28; PP3501; SLC59B1"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q6NUT3.2);
+                     transmembrane region"
+     misc_feature    12582..12726
+                     /standard_name="melanoma risk locus-associated MPRA
+                     allelic enhancer 19:3550926"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:128772424"
+     regulatory      12582..12726
+                     /regulatory_class="enhancer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:36423637]"
+                     /note="145 bp 19:3550926 sequence used in MPRA reporter
+                     constructs; Derived by automated computational analysis
+                     using gene prediction method: RefSeqFE."
+                     /function="activates a minimal TATA-containing promoter
+                     with rs75555084 allelic activity by MPRAs in C283T
+                     melanocytes {active_cell/tissue: C283T}"
+                     /db_xref="GeneID:128772424"
+     regulatory      12654
+                     /regulatory_class="transcriptional_cis_regulatory_region"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:36423637]"
+                     /note="rs75555084 or 19:3550926 MPRA-significant variant
+                     associated with a GWAS melanoma risk locus at 19p13.3;
+                     Derived by automated computational analysis using gene
+                     prediction method: RefSeqFE."
+                     /function="allelic transcriptional activity by MPRAs in
+                     C283T melanocytes {active_cell/tissue: C283T}"
+                     /db_xref="dbSNP:rs75555084"
+                     /db_xref="GeneID:128772424"
+     misc_feature    18738..18907
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent
+                     region 9848"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130063150"
+     regulatory      18738..18907
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_9848; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130063150"
+     misc_feature    19088..19157
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent
+                     region 9849"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130063151"
+     regulatory      19088..19157
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_9849; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130063151"
+     misc_feature    19198..>19312
+                     /standard_name="ATAC-STARR-seq lymphoblastoid silent
+                     region 9850"
+                     /note="Region: biological region; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /db_xref="GeneID:130063152"
+     regulatory      19198..>19312
+                     /regulatory_class="silencer"
+                     /experiment="EXISTENCE:reporter gene assay evidence
+                     [ECO:0000049][PMID:35858748]"
+                     /note="silent region_9850; Derived by automated
+                     computational analysis using gene prediction method:
+                     RefSeqFE."
+                     /function="represses an Ori minimal core promoter by
+                     ATAC-STARR-seq in GM12878 lymphoblastoid cells
+                     {active_cell/tissue: GM12878}"
+                     /db_xref="GeneID:130063152"
+ORIGIN      
+        1 tttggttttg ttttgttttg tttattgtgg taaaatacaa aatctaccgt cttacagtga
+       61 ggtggcgttc agtaccttca ccacgccgtg cagccatccc atctgattcc agaacattct
+      121 catcacccag aaggcagccc tgtccccatt atgtcaccta gtcaccccca ggtccccctc
+      181 cccagtcccg gcacccacga atcctctccc tgattctgtg gattggtctg tcctggacat
+      241 ttcatagaag tgggatcaca gcgtaccctt ctgtgtctgg tgtctctcac tgagcgtgac
+      301 atcctcaagg tgcatccgca ctgtggcctg ggtcagagct tcgcacctcc ttgtggctga
+      361 gtctcgttcc agcacggtgg cggcgccgtg ctgatcccct caccttcact gggtgttcgg
+      421 tgttctccgc ctcgggctgt cacaaatcgt gctgctgtga gccactgcgt gcaggtctca
+      481 tcctgggtgt attttacaaa cggactggat gtgagtgggt gaggagtgag gagctggggt
+      541 gacaggtgcc tgcgaccccg gccaggcact gcctcctgcg atcgaagggg cagggggaga
+      601 cagaagcccc tcaagggggt gtggagatgg agaagccaga ccccaggtgg ggggtgcata
+      661 gagctggggg ctcagggcca cggaccccac ctggcagtgg ccctggcctt gcccacccac
+      721 actgtgtcac ccccagttgt taaatactca gaacgactct ccagcccttc cctcgaggcc
+      781 acctcacccc gcagctggga ggagggagtg gtcagcgtgg ttgccgagac actgggtggc
+      841 ctttatgctg tcaacggtgg cctcagaggc cttctggcag gagcccgggg gatccaggca
+      901 gacatgcaaa ccctcaggca agaggctgca cggccctgta tcccctcggg gaccctcgag
+      961 gccagcttcc cagcaccgct gtacaggtga gcccctccct acaggtgagc ccctcccagc
+     1021 ccctccctcc ctccctccct gggtgtcagg ttacatggtg tttggtttgg ggtcttgcac
+     1081 gtgtcactcg ttattcctaa aaggctcatg tgtgtgacgt cccctccagc tcttcctgtt
+     1141 cccctccggc cagtggccgc tcactgtggg ggctacagac ctggagacag gccaagaaca
+     1201 aatgtgtctg cggccgtctc caaggactgc aaacgcactg ggagcttcgg ccacagaaat
+     1261 gttcgccctc tgaaatccag gcctgtgcgg ggctgggccc ttctgtggct gagagagtct
+     1321 gtcccacacc tcttgcagcc cgtggtggct ctgggcaacc ccaggcactc cttggccccc
+     1381 ggtctctgct tctgtcttca cccggccttc ctgtctgcgt ccaagtttcc ctctccttat
+     1441 aagggtgcca ggcactggat tcggggccat cctaacacgg ggtgacctca tcttagctgc
+     1501 atctgctaaa accatttcca aacaaggcca tgtcctgagg ctctgggcag atgtgatttt
+     1561 gggggtatac cagtcacccc gatacagtgt ctattatcaa ttgtttaaac aattatggaa
+     1621 tactatgcag ccatgaaaaa gaagagtgaa agccctttgc tccatttcca aggaaagaaa
+     1681 ttaaaccaag atggtggctg ggcatggtgg cccacacctg taatcccagc actttggaag
+     1741 gctaagacag gaggatcact tgagcccagg agttcaagac cagcctgagc aacatagtga
+     1801 gacccatctc ttttcttttt tttttttttt tttttttttg agacagtctc atactgttgc
+     1861 ccaggctagg gtgcagtggc gcaatcttgg ctcactgcaa cttctgcctc ccaggttcta
+     1921 ggattcttcc atctcaagcc ttctgagtag ctaggactac aggtttgtgc cacatgccca
+     1981 gctaattttt gttttttttt ttggacggag tctcactctt gtcgcaagac tggaacgcaa
+     2041 tggtgcaatc ttggctcact gcaacctcca actccctggt tcgagcgatt ctcctgcctc
+     2101 agcctcccaa gtagctggga ttacaggcat gcgctaccat gcccagctaa tttttgtatt
+     2161 tttagtagag acggggtttc accatgttgg ccaggatggt ctcgatctcc tgacctcatg
+     2221 atctgccctc cttggcctcc caaagtgctg ggattacagg cgtgaggcac cgcgcctagc
+     2281 tgtgagaccc catctctata aaaaatttaa aaatcagcca ggcagccagg cgcagtggct
+     2341 cacgcctgta attccagcac tttcggaggc cgaggcaggc ggatcacctg aagtcaggag
+     2401 ttcgagacca gcctgaccaa catggtgaaa ccccgtctct actaaaaata caaaattagc
+     2461 cgggaatggt ggctcatgcc tgtaatccca gctacttggg aggctgaggc aggagaatca
+     2521 cttgaacctc ggaggcagag gttgcagtga gccgagatcg tgccactgga cttcagccca
+     2581 gagcgaaact ccatctcaaa aaaaaaaaaa aaaaatccag gcgcagtggc tcacgcctgt
+     2641 aatccccaca ttttgggagg ccgaggcggg tggatcacga ggtcaggaga tcaagaccaa
+     2701 cctggccaag gtagtgaaac cccatctgta ctaaaagtac aaaaattagc tggttgtggt
+     2761 ggcgggcgcc tgcaatccca gctactcggg aggctgaggc aggagaatcg cttgaacctg
+     2821 ggaggcagag gttgcagtga gccgagatca ggccactgca ctccagcctg ggtgacagag
+     2881 caagactctg tctcaaaaaa aaaaaaaaaa aatcaaccag gcatggcggc acgtgcctgt
+     2941 aatgccagct acttgggagg ctgaggtagg aggatcgctt gagcctagga ggtcaaggct
+     3001 gcagtgagcc gaaatcgtgc cactgcattc cagcctaggt gacaaagcaa gactgtctca
+     3061 aaaaaaaaaa gagggtctcg ctcggttgcc caggctggag tgcagtggaa tgatctcagc
+     3121 tcactgcaac ctctgcctcc tgggttctag cgattctcct gcctcagcct cctgagtagc
+     3181 tgggattaca ggcacccacc accacgcccg gctaattttt gtatttttag tagagacagt
+     3241 gtttcaccat gttggccagg ctggtctcaa actcctgacc tcatgatccg cctgcctcgg
+     3301 cctcccacag tgctgggatt acaggcatga gccaccgcac ccagtgcaag accctatttc
+     3361 tattttttaa aaaaatggag atgcagtgaa tgggctcccg caagtgtgta ataacggggg
+     3421 tgagtgcatg taccacctgc tcctgggagg aaacaccaga aagtagtgag tggcaggtgg
+     3481 gtacggggcc gacagcaggg gtgaggggct catttctcat tgaatattat tctgtgctgt
+     3541 tttgtttgtg ttgagacaga gtctcgctct ctcacccagg ctggagtgca gtgacgcaat
+     3601 ctcggctcac tgcaacctcc gcctcccggg ttcaagctaa ttctcctgcc tcagcttccc
+     3661 gagtagctgg gaccacaggt gtccatcacc acacctgact aatttttgta tttttagtag
+     3721 agacggggtt tcaccatgtt ggtcaggctg gtctcgaact cctgacctca ggtgatctac
+     3781 ccaccttggc ctcccaaagt gctgggatta caggcatgag ccactgcgcc cagacaattt
+     3841 tgtgctgttt taattgtgtt ttaaaagcta catgtgtctt gcaattcatt tcaaaagggt
+     3901 gaggttctcc tgatcttgaa attgcctttc tagtggaaaa gccgagtcta tgtggggtcc
+     3961 ctcaaacagg ctctgtaact gaccaggcta ctcccatgtt ctgtgggcac ctgggagtct
+     4021 agtcaggatt taagcagagt tcctgccatg agagctggaa ccgggctttc cgtgcagggc
+     4081 agatgagatt gttttgaacc ctgctagact gtcttggggc cagcaacctt gttttctggg
+     4141 atgacttcct tgggacatat tcccaagagc aaggtcaaag cataaaacat ctttgagtct
+     4201 cttgtctttt tgtttttgag acagagtctc actctgttgc ccaggctgga gtgcaagggc
+     4261 acgatctcag cttactgcaa actccacttc ctgggttcaa gcgattctcc tgcctcagcc
+     4321 tcctgagtag ctgggattac aggtgccccc cgcccccaca ccatgcctgg cttaattttc
+     4381 gtatttttag tagagatggg gttttaccat gctggccagg ctggtctcga actcctgacc
+     4441 tcaagtgatc cacctgcctc agcctcccaa agtgctgggt ttacaagcgt gagccacaca
+     4501 cctggcctag tgggtccccc agtcttccct gggccatggc ttagtgccag ccccagacca
+     4561 cttcttcctg gtgcacctcc aggccagggg ggcttcccag aggaagggac ttgtgggtct
+     4621 tggaggctgg acaaggactg taggaatcca ggagtagcca gggcccttgt cctctcccct
+     4681 ccctcttctc caggcaagaa aagctgagaa cagaaaggtt tagtgctgac ttgggtgctt
+     4741 ggggtgcgat gtgtggggag agggggagtc agcctctctc ctcaagcacc cactctgggg
+     4801 tgaggggtac agggctgaag gacagactcc aagtggcgag ggagggagac cccacgccgt
+     4861 gggccaggcc tctacatcat ccaccctggc agacatcgca aaggggtcaa agcactcgct
+     4921 gtagacatgg gctcagtctc tgccccctgc ccaccctcag cgatgactac ctgtccctgg
+     4981 agggttcccg ctggccacca gccatcaggc aggccacacg ctggaagtac acgcccatgg
+     5041 gacgggacgc agccggccag ctgtggtaca caggcctgac caactcggac gcctgggaag
+     5101 cctggtacaa cctgccacgg gccccggcca gccccttccg cgaggcctac aaccgctggc
+     5161 acagctgcta ccaacaccgt gagtgcagca tgccatcggg tgagtgcccc cccccccgcc
+     5221 ctgggcagcg ggcctgccag agggggacag gaatgaccgc cagcccccgc cccaccgcag
+     5281 cctacaccca gcacctgcgg gagaccgcct ggcatgaccc catcgtccct gcccagtacc
+     5341 aggcccccag cacccggtgg gggagcgcgc tgtggaaaga caggccaatc cggggcaagg
+     5401 aatacggtga ggctaggtgc agggtgggtc cttgggaggc cagggggaca aggccaccta
+     5461 ggccagggtg aaactgcccg gggcgatcca ggagcccctt gctggccaac ggcgaggagg
+     5521 tgggggcaca tggtgacccg agtcccacct acagtgctca acaggaaccg gtacggggtg
+     5581 gagccactgt ggagggcatc agactacgtg ccctccctgt cggcacccca gcgcccgccc
+     5641 ggcaccaccc agaactaccg ggagtgggtc ctggaaccat actgcccctc cacctgccag
+     5701 cggtccccgc cttccctcac acccactccc cgataaaggc atgctaccag gatgcaccca
+     5761 ctgtctctgc acccagatga gggggcacta acctagtccc aggggaccag aggctcggga
+     5821 cagaggcaga cactgggctc gctggccgcc cacaaccagg gcagggctga gatgcccagg
+     5881 ctacccctgc ccagagcccc cccgcaggca gacaggagcc aggctgccgt catctcttta
+     5941 tttgctgcca gcagagtcca ccaagcctgc cgggcagccc tgctgcccac cacggtgggg
+     6001 tccaggccca gcccaccacc ccgtggctgt ctcctccagg ctccagccgt cctgaggggg
+     6061 ccctggcagt gtctggagac ccccaggctg gaggtgaggg gtgaactgga ctgagctcag
+     6121 ggttagggtt cccccagacc cttctgggat tcctacttcc tgttccctgc cgagaggggc
+     6181 accccaaatc ctccagaggg ctgggatgga ttagagttga gaatgggaca ccctcaaaac
+     6241 ccagggggtc cttgcaagtc cctggcgggc atccctgctg ccctcacccg accccacccc
+     6301 cgggagctgg gtgaggatgg agggtggggg tccagagaag agtgaggggc agtgggggct
+     6361 tttccccaag gccctggggg gcatcctcgt gcgtccccac agttcccttg cacaggtgca
+     6421 ggaggctgtc aggagtcagg gccgggcatc acggtcccct gcaagggagg ggtggaaatg
+     6481 gcattagaga gtgtgggtca gtgtctgggg agggaggggt gggccaggac tcacagcgtc
+     6541 gcaggcgggt cggccacagc aggaggctac agagacacag ggcagcggcc acgcccacgc
+     6601 cgcccgtcac agccaccatc gcccagtggt aaaagctcac gcaggccctg cagcagagct
+     6661 ctgagctgtg ggaggaggcg ggggatgagt aggcaccgcg ggtaccaccc ccccgccacc
+     6721 caagctgaac ctgtgcctcc cctcaccccc gacagcggct ccgtcctgtc caatccagga
+     6781 gctgggggcc ctgccactcc ctccctcctg tcccacaccc aacagctcgg ccagtcctgt
+     6841 gggccctgct tccagcatcc atgccaaatc caccatgtct ccccttccct gtctcctcat
+     6901 ggtccagccc cagcatggcc cgcctgcacc cgccccggtc ccaggctgca acttctcccc
+     6961 cagcagctgt cctcccggca gcaaccacca gagggcgtct gtgagcgcct gggtcagggc
+     7021 ctgtccctct tctgcccaca gctctctgtg agtcccactg tcctcagggt caaatcccct
+     7081 aagtcctccc catggcccac caggccctgc acgacctgcc ctcccctcct ccctctactc
+     7141 cagccacaca ggcctcctcc ctgttcttcc aacacaacat gccaggtgtg gtcctgcccc
+     7201 agggctttgg cactacttgt ccctccccat tggcctggaa tgctctgaca tcctgcaggt
+     7261 gtcagggcca cgtcacctcc tccaagaagc cctccctggc ttcctgccct ggctgtccag
+     7321 gtttctctga gcgttcacct ttacacacca cccacgccgg taccaaccac atgttcacct
+     7381 ctgtgactat taacacggct ggctctgccc caggcccaga ccggctgtgg tttccaggcc
+     7441 ctgggcctct acaggcgtga atgctgtgat gctgtggtct agaaccatcc atgtctgaac
+     7501 cctgagttct gtgggtctgg gttacacgga ctcggggctc ccttccagct gggcccaccc
+     7561 ccgatatatt tctgtacggt gtcttcagca ctgcacacat ggacccaacg tttgttgagt
+     7621 gaataaacga agtgctcagt ggaagaaagg aaaggtctcc cctgcctatg actcccattg
+     7681 gggcaggtgt ctttggtcca cagctggatg cccagaccca gaacactgct ggacacacag
+     7741 caggcgctta atcccctctt actgaacaaa agaatgaatg aacgaacagc ggcactcacg
+     7801 ggcaagggtg caggctctgg atggccatga ctgccagccc attggccacc ttatccaaga
+     7861 agctcatgga gccgtacacg aacgctccgc tgttctgtgg agacacaggc gaggtggtca
+     7921 gcgtgcaccc cgagatctag gacccggcct cccccacccc agcctggcta ccagccctac
+     7981 cgtgtgggga ccgatgaggt cggccgtcat ggccagcgag gtgacgagga tggtggcaca
+     8041 gccagcaccc agcagcacag ccgctgcgta cacggccaca cccagtccct ccgccagcgc
+     8101 cacccaggcg gcaaaggcca ggatcaccag gaggcctgag aagtaggtca tctgcaggga
+     8161 cagccccggg gtcaggccca caccactggg tgcccccaag cctggcgctt caatccgcca
+     8221 cccctacccc caaccccagc aaacaaggca tgagctggat ggtccctaag gagccctggc
+     8281 tctggccctg gacacaacac cgaggctctg cagatcctcc atgccagagc tgtgctctct
+     8341 gtccacgccg tagcggctgg agacgtgtgg ctattctgcc tgagcgcagg tcagttacaa
+     8401 cgaaagcaaa cgacggactc ggctcagtcc ccacggccac atttcaagcc ctcagtagct
+     8461 gcacagggtg gacagaaagc gccagagctc catggctgcg agtgtataaa ctcgagacac
+     8521 agagaagcca ggatcctaga attccttgtt cccagatctg gggctttttt tttctggaga
+     8581 caagagtctc gctgtgtcgc ccaggctgga gtgcagtggt gtgatctcat ctcactgcaa
+     8641 gctccgcctc ccgggttcac gccattctcc tgcctcagcc tcccgaatag ctgggactac
+     8701 aggcacccgc caccaacgcc cggctaattt tgtttttgta tctttagtag agacggggtt
+     8761 tcaccgtgtt agccaggatg gtctcgatct cctgacctcg tgatccgccc gcctcggcct
+     8821 cccaaagtgc tgggattaca ggcgtgagcc accgtgcccg gcctagatct ggggcttcta
+     8881 caaggcggga actcggaggc ctgagagcat ccgaggatgg aacccggagc gggtgggatc
+     8941 tcggctgcag ggcaccccat cctccgcccc agctgtcccc ggtccccgcc cactcacgtt
+     9001 cctcccaatg cacttgttga tgggcttcat gaggaaggag gacaagaagc cgctgaggta
+     9061 catcaccagg ggaatggtcg cgatgaactt ctgcggaggc agagccaggc atgccgtgtc
+     9121 agtcatggct cgccaggctg gggccgtccc atcccagcgt ccccgcccca atctgctcac
+     9181 cttgggcagg tggagcgagt aggtgaggta catggccatg taggtctggg acaggttcac
+     9241 gatgagcctg gtggtcatgt acagtatgcc cacctgtggg cagaccgaca gagggactgg
+     9301 caggggtcag gagggccttc tccactccca ccagcagggg gcaccggggc cagggtgggc
+     9361 gccctgcagc tggcatttga tccattggta gtgactgccc agtggggtgg gccaggaaga
+     9421 ggagagcagc acttgatgag tgacgtttgc cctgggtgtg ggctgcacca ggggccacgt
+     9481 gtgctctgcg tctggacgca gctgccccac agagcaaagg ccctgtgggt gggagagaag
+     9541 gcccacgcca gccccaccgt ccccagcacg cacctggtag aaagccggct cccggagcca
+     9601 gtgcttccag agcagcaggg gctgggccgt ggcaggggcc aacagggggg tgtgctcgcc
+     9661 tggctcctcc gcatgcggcc ggcgcctctc ccgggtgccc aggtggaata gcagtgagaa
+     9721 cacggcgccg acacccacca ccagcaggga caggttctgg ggatgcagca gaagcagtca
+     9781 gtggtggcgg gcccagcccc cgcccctggc tcgaggactt caggcgaccc acccggactc
+     9841 cagctcaccc ggaacacggg cacgtcctgg ccccccagct ggtcgctgat gctgatgtct
+     9901 tgggtgggct ccacccgcga cgagccctgc aggtgcagca ggagccaggc ggcgccgtag
+     9961 acggtgatgt tggccaccac ggtgaacgca tacctggcgg gcaggcgggc agggactcaa
+    10021 caagacgcca ggaacctggg tcacttcctc cccacgtggc tacgccgtca gagaggcctg
+    10081 gggaacccct gactgacagg tgattccaac cactgccaca ctgggtggcc tccaggaagc
+    10141 ccgtgctggc ctcagtttcc ccagcccgca cattacctaa cgcgggaaag ctgtgacctg
+    10201 cagctccacc cttcgtgccc aggaccaggg tacagtgact cggccaagcg gagtccaggc
+    10261 tacaacccaa aagtctgaga acccagagac tcagaagcca gaattcgaga attcttcttc
+    10321 cccagatgct gggcggctaa agggcgaggg ctccctggtc tagaaccatc caggccagcc
+    10381 cctgcccaca gcccggccag gcacagagtc ccccgggggg cctcagaatc ctaccatgaa
+    10441 tcagtctctc tttctgaaag cgggaaccat gccacctcca gaggccacgt gagcacagca
+    10501 ggaggtcagc tggcaaagca atggcacgta ggaagtgcct ggggtctggc cccggtcaga
+    10561 tggggccctc aggggccctg ggcattgggc aacctgtgtc gttagcgcct gcacctctgt
+    10621 cacatggcca taatggggaa ctcaaatctg ggggtgggga ggagctggtg atacacaggc
+    10681 agatgtggag acagcggact cccccgacac gaaggcgctg tgaggaccct ggctttgggc
+    10741 accagctggg gccgagtcct cctctgaaat acgcgggaga gaagagttcc cacctcccag
+    10801 ctcacgggga ggattaaaga agctgagatt catgttaagg gcctataact atgccaggca
+    10861 cacggcaggt gctcaatgca tcatcctcgt aaccagaaga acctcttcca gcgcctctag
+    10921 caagttagtg gataagccgg gcacccgctg tacccaggtg taatagaaag aattctaagg
+    10981 cagccccaga gaggcctgcc catcccatcc cctccccgtg gcagcagcag ctgtaagtcc
+    11041 accatggatg ttactcccag gatgtagcca gggctaagtg gcattctata gcagagggaa
+    11101 agggacttcg cagtgtgtta taaccaagga ccttggtcag ctcgggtgtg tccacaggga
+    11161 gattactggc caggcgcggt ggctcacgcc tgtaatctca gcactttggg aggctgaggc
+    11221 aggcagatca ctgaggtcag gagttcgaga ccagcctggc caagacggtg aaatcccatc
+    11281 tctactaaaa atacaaaaat tagccggggg tggtggcggg tgcctgtagt cccagctact
+    11341 cgggaggctg aggcaggaga accgcttgaa cccaggaggc agaggttgca gtgagccgag
+    11401 atggcgccac tgcactccag cctgggtgac agagtgagac tcttgtctca aaaaaaaaaa
+    11461 aaaaaaaagc caggcacagt ggctcacgcc tgtaatccca gcactttggg aggccaaggc
+    11521 gggcagatca cctgaggtca ggcgttcaag accagcctgg ccaacatggt acatggtgaa
+    11581 accccgtgtc tactaaaaat acaaaaaaaa aattagccga gatcgtgcca ctgcactcca
+    11641 gcctggctga cagagcgaga tcctgtcaag ggagactacg gtgtgtgagc ctggccaagt
+    11701 caggcaatcc tttgggagag agggcttagg gcttcctggg atcagagatt ctccctgctg
+    11761 gcctcagaag cagcagccac cgtgatctcc acaggtgcaa gactacaact tctgccacca
+    11821 accacgtgag catagaggag ggaccgcccc cagccttcca taagacgcta gccctgggca
+    11881 accccttgaa tgcaggctca agacagaccc tgaagcccaa cagccctctc cccctagctc
+    11941 agccatgctg gactcctgac ccccagaaac tgtgagagga gaaatgtgtg atggctgagt
+    12001 gtggtggctc atgcctgtaa tcgcagcact ttgggaggcc aaggcaggag gatcgcttga
+    12061 gcccaagagt tccagaccag cctgggcaat atagtgagac cctgtctcta caaaaacttt
+    12121 ttgttttttt tttttgagac ggaatctcgc tctgtcgccc aggctggagt gcagtggcgc
+    12181 tatcttggct cactgcaagc tccacctccc gggttcacac cattctcctg cctcagcctc
+    12241 ccgagtagct gggactacag gcgcccacca ccgcgcccgg ctaatttttt gtatttttag
+    12301 tagagacgag gtttcacgtg ttagcgagga tggtctcgat ctcctgacct cgtgatctgc
+    12361 ccacctcggc ctcccaaagt gctgggatta caggtgtgag ccatgcccag cctacaaaaa
+    12421 ctttaaaaaa cagctgggtg tagtgacata ctcctgtagt cccagctact caggaggctg
+    12481 aggcaagagt atcacttgag cccaggaggt tgaggctgca gtcagccgag atcaccccac
+    12541 tgcactccag cctgggcaac agagtgagac cccctttcaa aaaaataaac atgaaagact
+    12601 gcctggtctc gagctgccga gtctgtggcc gctcattatg cagtgccact gactgataca
+    12661 ccgagccggg gcccaccctg cccgtggggg agggtgccca ggctcccacc tgagtgccgt
+    12721 gagctccacc ttctcatggt cgttggtgac gagctccggg atgaggctga ggtgggagat
+    12781 ctgtgtggag gcccagccaa actggaagat cacgatgaac gggccgtagt agaggagggc
+    12841 agcccactcg ggcgtggccg ccccacagcc caggcagggg ctgaagatga aggggaagga
+    12901 cagcaggacg cagacggtgc ctgtggaagg cagagtggtc agtcgcgggg ctgtcccgca
+    12961 ccagccaggg ctcccagggt gaggacatgg agggaggaga gagggaaact gaggcacaga
+    13021 tggagacgcc ccccgcatgc acacagtcac gcaggagcga gggtctgcag tcggggtccc
+    13081 ccaggcttat ggcccctggt gacaaaaggg gaatctgaca ccaggtgcct gggctcagcc
+    13141 tgcaagtcag aagaagccag gcgcaggggg tcccccggaa acctgccccc cacaggtgcc
+    13201 ccggttacag ccgcagcctc ccccagctcc tccccctcgg ccactatcaa gcctcccata
+    13261 gggcctcggg gagcgggagg cccaggtggg cctgggctgg acccctcctt aagctccgcc
+    13321 atcctcatca gctcctaagg tgaccactcc ctggaatgct ggggcgtcct ggcctccagg
+    13381 gacagtcagg aaatagcacc cgcccccacc tgagatctgc ggtggcaagg cctggctctt
+    13441 cacatcctca gaagaaaacc cctaagatac cctggaacaa atgtaagatc ctccccgcag
+    13501 cccacggagc cctttgcgac ctgccctgtc ccctccgtgc cctgccctgc ccttccctct
+    13561 ctcccccttc tctctctgct ccagccatgc aggtctcctc actgcaggac ctcttcaaca
+    13621 tgccaggcgg tcctgccccc gggcctttgc atgggcgtgc ctctgcctag agctctctct
+    13681 cacatcttag caagactggc tccttttcac ctctgggctc aacgggaatg tcacctcctc
+    13741 gaacacctct ctcctggccc ctgctgcctc tacctcaccc ttcggagcac ccgggaattc
+    13801 tctgtctgcc ggcttcctgc cggctttcct ctgcagacag cagcctccaa ggggcctggg
+    13861 gagacccagc atggaactcg ggcatttcaa tatctatttt tttttttttt ttagacagag
+    13921 tcttgctctg tcgcccaggc tggagtgcag tggcgagatc tcggctcgct gcaacctccg
+    13981 ccccctggat tcaagccatt ctcctgcctc agcctcccga gtagctggga ctacaggccc
+    14041 atgccaccat acccagctaa tttttgtatt tttagtagag acagggtttc accacgttgg
+    14101 ccaggctggt ctccaatgcc tgacctcagg tgatccaccc gcctcggcct ctcaaagtgc
+    14161 tgggattaca ggcgtgagcc accgcgcccc gccttttttt tttttttttt ttttttttga
+    14221 gacagagtct cgctctgttg cccaggctgg agtgcagtgg tgcgatctca gctcattgca
+    14281 gcctctgcct ccctagctca agccattctc ccacctcagc ctcccgtgta gctgggatta
+    14341 caggtacctg ccgccacatc ccaccacatc cagctaatgt ttgtattttt ggtagggatg
+    14401 gggtttcacc acgttggcca ggctgaagtc gaactcctag cctcaagtga tcctcctgcc
+    14461 tcggcctccc aaagtgctcg gattacagac ttgagccacc ataccggctg ttacttcagt
+    14521 atcttctgag tgagtaacaa tagtggccct gacacagcct gtaagcgtgg gtgtcattat
+    14581 cctcattttc cagatgggaa aattgaggcc cctagagtga gtcggagcca ggctccttcc
+    14641 ctgcagccct gcactcctct cctcccagcc tggggcacct ggaagggccc ctgtaccaag
+    14701 cctggtggct ggacctcctt cctccctccg gaggtgacct catccccaga ccctgggccc
+    14761 gcccccagag aactggaatt gggaagtgaa accaaaacca gcctctcctg ctggtttctc
+    14821 tggaactagg gcctgggagg gtttgcgcag attcctgggg tccttgggga ggtcatccgg
+    14881 gggcagagca tgaactgtgg actccagtga gaaggtccct tcctggctgg actccctgtt
+    14941 cctgctggcc agtctgggtt aaccattgtt ggggccaggc tgcctggcct ggggacctcg
+    15001 ggcaagtgac tgtgcctctc taggcctcag ttttcagaaa acagggatag tggccaggag
+    15061 tggtggatca tgtaatcaat cccagcactt tgggaggctg aggtgggagg actgcttgaa
+    15121 cccaggaggt cgaggctgca gtgagtcgtg atcgtgccac tgcgctccag cctgggcgac
+    15181 agagcgagac cctgtcaaga aaaaaaaaaa aaggccgggc gcggtggctc acgcctgtaa
+    15241 tcccagcact ttgggagacc gaggcgggtg gatcatgagg tcaggagatc gagaccatcc
+    15301 tggctaacat gatgaaaccc tgtctctact aaaaatgcaa aaaaaattag ccgggcgtgg
+    15361 cggcgggcgc ctgtagtccc agctactcga gaggctgagg caggagaatg gtgtgaatcc
+    15421 gggaggcaga gcttgcagtg agactccatc tctcaaaaaa aaaaaaaaaa aaaaaaaaac
+    15481 aatgaaaaga aatgaaacag agaaagaaag gaaaagaaaa gaagaggctg ggtgcggtgg
+    15541 ctcatgcttg taatcccagc actttgggag gctgcagcgg atggatcacc tgaggtcagg
+    15601 agttcgagac cagcctgacc aacatggtga aaccctgtct ctactaaaaa tacaaaaatt
+    15661 agccgggcat ggtggcacga gcctgtagtc ccagctactc gggaggctga ggcaggagaa
+    15721 tcacttaaac ccaggaggtt gaggttgcag tgagctgaga tcacgccact gccttccagc
+    15781 ccgggtgaca aagcaagact ccgtctcaaa aataaaaaat aaaaataaat aaaaaattaa
+    15841 aaaaagaaga gaaagaaggg tagtgaaagt tcctgcccat ggccaggcgt ggttgctcac
+    15901 acctgtaatc ccagcactgt ggggggctga gacaggcaga tcacttgagg tcagcggttc
+    15961 aagcccagcc tggacaatat ggtgaaacct tgcctctact aaaaatttaa aaattagccg
+    16021 gctttggtgg cacgtgcctg taatcccagc tactcaggag gctgacgcac gagaatcctt
+    16081 tgaactcagg aggcgaaggt tgcagtgagc cgagatcccg ctactgcact ccagcctgag
+    16141 cgacagagtg agactctgtc tcaacaacaa caaaacaaaa aaaaaaaaaa aagaaagaaa
+    16201 gttcctgcct cacaggctgc tgtgaggata gagttcatgt gtggcaccag caaaagctcc
+    16261 gtctattctg aaccacttcc tgcttccgca gcttcaaagt gaggactgtt cctacctttt
+    16321 ccacagctgt ttctgctact tggaatgcgc ccctccacac actgctaccc atccgtcaaa
+    16381 acctcaaagt taatgtcctt ccttctgaag cccatttgtg ccatctgccc actcacagga
+    16441 gtgtttgtgt ctgattctga gggtcgtctc gggattgtgg gggagctccc caggacttgt
+    16501 taaagggcaa agtgagtcct tagccaccag ccccagactt gggggtgaaa tacagaagtg
+    16561 ggtgccattg ccagggtaac cttcactcaa gtcacctgct caggcatcaa gagcggctgc
+    16621 ctgggcttct gctcccaaca gaccctcctg accctccagg cccacccagg tggcccccac
+    16681 ctctcagctc ccagggcagg tgccctcccc gaggcgggga agaggggtga cggtggacgc
+    16741 cttggtgtcc ggttggacca cctggttccc tgaggtctgc tttggaaaaa cataaagcct
+    16801 tcggttgctg tttctgtttg ttttcttgtt ttggtttgtt gttgttgttt tttgtttttt
+    16861 tagacagact ctcgctgtgt ctggagtgca gtggcgcgat cttggctgac tacagcctct
+    16921 gcctcccggg ttcaaacgat tctcccacct cagcctccca agtagctggg attacaggcg
+    16981 tgcgccacca cgctcggcta atttttgtac tttagtagag acggggtttt gccatgttgg
+    17041 ccaggttggt ctcaaactcc tgacctcagg tgaggaggcc tcccaaagtg ctgggatgac
+    17101 aggggtgagc caccgtgccc ggcccgccca gaaattatct tacgcgactg tcaaagagct
+    17161 tatccaacta ttatgatcaa agaggcattt ggggccctgg gctccgctca gcaaccaatc
+    17221 ccaacgtaac cacaaaggaa gggacagccg gtcccctccc tgtctgccgc cgcctcaggt
+    17281 accccaggaa tagcctggac ataggaaaca tgaaactcca gtccccaagc tgtgcctgct
+    17341 gcggagcctg ccaccctcag accactggag atccactgcc tcttgcaaaa aatgtcatca
+    17401 cccagatcct gggtccaacc acccatccca gtcattgttc ccaagggtga ggaggcaccc
+    17461 gcctgcccct cctgccacct ggaattccaa gaactgagca ggattcctgg ccctgcctgc
+    17521 tgaaatgcca catgtgtccc aaatgccagg acgcagccgg cacttctgtg agggcaagaa
+    17581 gagcagggaa ggaggccggc taatcttcag gcccagggtc cgggagggga gaggagggcc
+    17641 gctgggaggc agccctgcag tcttatcgat gggcactggg gcagggtgac ccagcccatg
+    17701 acgccagcct cctgccctcc caacagccct ctctaatcag ggcagctccc ccagacctag
+    17761 ggggtccctg accctggcca gacagataga ggcaatgcaa gaacagggca gagacccctg
+    17821 accctccagt cccacccagg cggctcccaa ctctcaactc ccggagcagc accctcaaac
+    17881 tgctgacgca ccaggttgcc ctggcagaac acacagagag agaggaggct ctagggggcc
+    17941 tgactgtccc tcagccatag ctgtcccagt tggtcaccct aatagacgag ctcaggctag
+    18001 acagactgac aaaggaggcg ctgagcagtc accaccaacc ctccagaggg ttcagggtgg
+    18061 cccgggggct cagacaaaca aaggcattcc cactagaaag tcatgtagtc agatggtgag
+    18121 ggccccgcag gtcagacagc agctctgagg cagacagggg aggctggacc aagggacaga
+    18181 cagaggggat acggggcagt taaacagaca gatgggggag gctcatggct caggcagata
+    18241 gagaagccct gcacagttgg acagatgggg gaggcactgc acagtcagac agatggggga
+    18301 ggcacagcac agtcagacgg gggaggctca ggccatgggg cagaaagacg ggggatgctg
+    18361 gatggtggga caggcagggg aggctcagga gtgacaccac agaggggcca ctgggtagtc
+    18421 agacagacgg gggaggctca ggccacggaa cagccagagg ggtgaaaact cagctcatgg
+    18481 ggcagacaaa caggggagac ttaggtccca ggcaggcaga gagagggggc tgggtggtgg
+    18541 gactgatgga ggaagctcag gccatgggca cagacagaca gacaggggag gttcgggcca
+    18601 ggggacagac agaggggtga aaactcagct catagggcag acagatacat aggggaggtt
+    18661 aaggccgtgg acagacagtg cagggaagct cgggccacgg gacagacaga ccgaggggag
+    18721 actccgatcc tgaggcaggc agacggcggg tggtgagtca gagggaggag gcgcccgggt
+    18781 cgcggagtct cggaggggct gcccgacagg tggcggggcc gggacgctta ccgaccaggt
+    18841 gccaggcctt gcgcgggccg tagcgggcgc agcagctggc ggcgcggtcg gcctcgtagc
+    18901 ccacgagcgg tgtgcacagc ccgtcggcca cctggcccag cagcagcagc agccccgcgc
+    18961 cgcgggagct gtaggcgcgc accgagtgca ggtagagcag caggtaggtg aaccacatgg
+    19021 acgcgcacag gtcgttgagg aagtggccca cggcgtagct cagccgcgcc accagggaca
+    19081 gcggccgcgg ggacggcgcc gctccggccg ctgggggtcc cgggcccatc gcggcgccgg
+    19141 gcccgcgccc cccacccccg ggctccgcgg agggtaccct ggccaggcct tcttgggtgc
+    19201 cgtgggggca ggcgccgggg acccccacca cgcgccgggc accccgcgtc ccgctctctt
+    19261 acggccgcgc cctcacccac gtccgccgcg tccgccccac gctcgactct gc
+//
+
